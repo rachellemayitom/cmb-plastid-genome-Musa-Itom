@@ -1,0 +1,9 @@
+Musa itinerans Plastid Genome Statistics
+
+NCBI Accession: NC_035723.1
+Genome length: 168,985 bp
+Number of sequences: 1
+GC content: 36.82%
+
+Galaxy History: Plastid_Musa_Itom
+Tool used: FASTA Statistics
